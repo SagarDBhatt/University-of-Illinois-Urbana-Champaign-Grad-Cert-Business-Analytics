@@ -33,3 +33,18 @@
 
 ##### Causal Analysis - Instrumental Variables: 
 
+- Instrumental Variables (IV) is useful to identify the causal effect. The IV should have strong influence on treatment. Also it must affect the outcome only through the treatment. 
+
+##### Causal Analysis - Example from a Field Experiment
+
+- Inspriration content is more powerful than deal content for the customer to spend on more products. 
+
+- Example, showing the recipe to the customers  at the grocery store inspire them to purchase more product. Like recipe of lasagna with salad and wine inspire the customer to purchase all the items require to make the dinner meal. 
+
+- Whereas deal based content forces the customers to focus on savings and spending on the discounted items.
+
+##### Application - Difference-In-Difference Method
+
+- Find the difference between Treatment Group ( Who watched the marketing campaign ) and control group (Who did NOT watch campaign) and find the data. Identify the difference in spending on Treatment group before watching the marketing campaign and after watching the marketing campaign (after 18 months). 
+
+- We can compare the changes in spending by comapring the spending between Treatment group and Control group. This quasi-experiment (randomization in sample) and difference-in-difference technique will provide us the result of marketing campaign on spending of the treatment group. 
